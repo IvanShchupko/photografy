@@ -1,0 +1,61 @@
+body{
+    background-color:cadetblue;
+}
+.header {
+    background-color: #fff;
+}
+.header-nav {
+    width: 555px;
+    margin: 0 auto;
+}
+.header-nav-item {
+    Display:inline-block;
+    margin: 71px 35px 91px 35px;
+    font-weight: 400;
+    font-size: 14px;
+    color: grey;
+    font-family: 'Open Sans', sans-serif;
+}
+.header-nav-itemActive{
+    Display:inline-block;
+    margin: 71px 35px 91px 35px;
+    font-weight: 400;
+    font-size: 14px;
+    color: grey;
+    font-family: 'Open Sans', sans-serif;
+}
+.main {
+    background-color:black ;
+    margin: 0 auto;
+}
+.main-box1 {
+    position: absolute;
+    width: 420px;
+    height: 280px;
+    left: 148px;
+    top: 182px;
+}
+.main-box2 {
+    position: absolute;
+    width: 420px;
+    height: 280px;
+    left: 633px;
+    top: 182px;
+}
+.main-box3 {
+    position: absolute;
+    width: 420px;
+    height: 280px;
+    left: 147px;
+    top: 858px;
+}
+.main-box4 {
+    position: absolute;
+    width: 420px;
+    height: 280px;
+    left: 633px;
+    top: 858px;
+}
+.card-text {
+    font-family: 'Open Sans', sans-serif;
+}
